@@ -9,7 +9,7 @@ NeuralNetwork
 * 双曲函数(tanh)<br>
         tanh是双曲函数中的一个，tanh()为双曲正切。在数学中，双曲正切“tanh”是由基本双曲函数双曲正弦和双曲余弦推导而来
 公式
-![](https://github.com/TastSong/NeuralNetwork/blob/master/NeuralNetwork/png/0.png)
+![](https://github.com/TastSong/NeuralNetwork/blob/master/NeuralNetwork/png/0.png) <br>
         定义<br>
         双曲正切函数是双曲函数中的一个函数。<br>
         定义域和值域<br>
@@ -18,4 +18,4 @@ NeuralNetwork
         周期性<br>
         双曲正切函数y=tanhx，其不是周期函数。<br>
         导数
-        ![](https://github.com/TastSong/NeuralNetwork/blob/master/NeuralNetwork/png/1.png)
+        ![](https://github.com/TastSong/NeuralNetwork/blob/master/NeuralNetwork/png/1.png) <br>
